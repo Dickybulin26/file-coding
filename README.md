@@ -1,2 +1,2 @@
 # file-coding
-ini ada lah repo punya saya
+ini adalah repo punya saya
